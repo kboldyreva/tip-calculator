@@ -1,1 +1,1 @@
-# tip-calculator
+# https://kboldyreva.github.io/tip-calculator/
